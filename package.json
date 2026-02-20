@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/iwatos/tech#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.93"
+    "zenn-cli": "^0.4.5"
   }
 }

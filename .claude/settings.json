@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run add)",
+      "Bash(npm run dev)"
+    ]
+  }
+}
