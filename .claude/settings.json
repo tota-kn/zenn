@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(npm run add)",
-      "Bash(npm run dev)"
+      "Bash(npm run dev)",
+      "Read(//mnt/c/Users/omenb/Dropbox/obsidian/vault-private/**)"
     ]
   }
 }
